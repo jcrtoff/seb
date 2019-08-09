@@ -1,0 +1,9 @@
+USAGE
+=====
+
+The command "gcc main.c" should create an executable a.out. The command "./a.out" should run the executable and output 
+a list of the tested use cases. 
+
+To use the function in a source code, copy from //Mark 1 to //Mark 2. The rest of the program is just for testing.
+
+
