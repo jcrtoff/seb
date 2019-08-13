@@ -12,6 +12,7 @@ int getNewValue(double oldMin, double oldMax, double newMin, double newMax, int 
 
 int translateNumber(const int oldValue)
 {
+
    double newValue = 0;
 
    if(oldValue <= 1000)
